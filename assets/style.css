@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  width: 500px;
+  border-collapse: collapse;
+  margin: 30px auto;
+}
+
+tr,
+td {
+  border: 5px solid black;
+  padding: 20px;
+}
+
+.orange {
+  background-color: orange;
+  padding: 30px;
+}
+
+.red {
+  background-color: red;
+  padding: 120px;
+}
+
+.orange2 {
+  background-color: orange;
+  padding: 60px;
+}
+
+.black {
+  background-color: black;
+  padding: 30px 0px;
+}
+
+.orange3 {
+  background-color: orange;
+}
+
+.red2 {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+  padding: 30px 0px;
+}
+
+.black2 {
+  background-color: black;
+  padding: 10px 0px;
+}
+
+.min {
+  padding: 10px 0px;
+}
